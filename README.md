@@ -17,6 +17,10 @@ This repository is still under development and I will continue to add more UI de
 | <img src="https://user-images.githubusercontent.com/35039342/51793910-f8675c80-21ed-11e9-93b0-770c5860106a.png" width="270"> | <img src="https://user-images.githubusercontent.com/35039342/51793911-fdc4a700-21ed-11e9-8ace-9902016693d1.png" width="270"> |
 <img src="https://user-images.githubusercontent.com/35039342/52170392-54426000-276f-11e9-9705-4bc8a064d74a.png" width="270"> 
 
+|                                                                                                               |                                                                                                               |                                                                                                               |                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| ![img1](https://user-images.githubusercontent.com/35039342/52535969-b6582200-2d7a-11e9-934d-69108c6ef6c3.png) | ![img2](https://user-images.githubusercontent.com/35039342/52535973-c1ab4d80-2d7a-11e9-972d-4b3a55859ff8.png) | ![img3](https://user-images.githubusercontent.com/35039342/52535978-cc65e280-2d7a-11e9-9be2-3bbca315aef1.png) | ![img4](https://user-images.githubusercontent.com/35039342/52535981-d25bc380-2d7a-11e9-8314-5cde905effe8.png) |
+
 
 
 
